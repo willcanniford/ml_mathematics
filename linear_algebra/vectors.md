@@ -16,3 +16,7 @@ With optimisation we are trying to find a location in that parameter space where
 Plotting out the cost function across all values of the parameters produces a plane. Any point on this plane has a vector location which represents the value of the cost function given a set of parameters i.e. [2, 3] would be a position on the plane that describes f(x) = p1 * p2 * y; for the value of p1 = 2 and p2 = 3 what is the value of the function? That will give an additional dimension. 
 
 Moving at right angles to the contour plane will enable the quickest optimisation of an equation where we are looking for the smallest error function. This makes sense as you are increasing/descreasing each parameter individually trying to work out their values quickly and the impact of that delta on the cost function. 
+
+- - -
+
+## [Operations with vectors]('./vector_operations.md)
